@@ -21,7 +21,6 @@ public class Ex5_4{
 	}
 
 	public static double calcCircleArea(double radius){
-		//return Math.pow(radius, 2) * 3.14; 
-		return radius^2 *3.14;
+		return Math.pow(radius, 2) * 3.14; 
 	}
 }
