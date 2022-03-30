@@ -12,5 +12,10 @@ public class ArrLesson1{
 		nums[0]=10;
 		nums[1]=27;
 		nums[2]=-5;
+
+		//値を見る
+		System.out.println(nums[0]);
+
+		nums[0] = nums[1] + nums[2];
 	}
 }
