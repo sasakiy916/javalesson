@@ -21,6 +21,6 @@ public class ArrayMulti{
 		//	{3,6,8,9},
 		//	{4,6,3},
 		//}
-		System.out.println(nums[0][1]);
+		System.out.println(nums[1][1]);
 	}
 }
