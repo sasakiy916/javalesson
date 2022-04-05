@@ -1,10 +1,8 @@
 public class Account{
 	String accountNumber;
-	int balance;
-
-	public Account(String accountNumber, int balance){
+	int balance = 1412;
+	public Account(String accountNumber){
 		this.accountNumber = accountNumber;
-		this.balance = balance;
 	}
 	public String toString(){
 		return "¥" + this.balance + "(口座番号:" + this.accountNumber + ")";
