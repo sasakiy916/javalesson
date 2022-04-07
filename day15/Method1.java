@@ -17,6 +17,7 @@ public class Method1{
 		System.out.printf("BMI:%f%n",bmi);
 		System.out.printf("%d line win%n",slot());
 	}
+
 	public static int maxOf(int a,int b){
 		return a>b ? a:b;
 	}
