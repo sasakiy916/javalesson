@@ -1,0 +1,9 @@
+あり,ant
+ペンギン,penguin
+ねこ,cat
+いぬ,dog
+カンガルー,kangaroo
+くじら,whale
+しろくま,polarbear
+らいおん,lion
+ひと,human
